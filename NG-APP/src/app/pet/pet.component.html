@@ -1,0 +1,14 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-3">
+      <div *ngFor="let owner of owners; last as last">
+        <h2 class="badge badge-secondary">{{owner.gender}}</h2>
+        <ul class="list-group">
+          <li class="list-group-item" *ngFor="let pet of owner.pets">
+            <span>{{pet.name}}</span>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
