@@ -1,0 +1,15 @@
+D:\Insight\CodeTest\CT.Service\bin\Debug\netcoreapp2.0\CT.Service.deps.json
+D:\Insight\CodeTest\CT.Service\bin\Debug\netcoreapp2.0\CT.Service.dll
+D:\Insight\CodeTest\CT.Service\bin\Debug\netcoreapp2.0\CT.Service.pdb
+D:\Insight\CodeTest\CT.Service\bin\Debug\netcoreapp2.0\CT.Data.dll
+D:\Insight\CodeTest\CT.Service\bin\Debug\netcoreapp2.0\CT.Models.dll
+D:\Insight\CodeTest\CT.Service\bin\Debug\netcoreapp2.0\CT.Repo.dll
+D:\Insight\CodeTest\CT.Service\bin\Debug\netcoreapp2.0\CT.Models.pdb
+D:\Insight\CodeTest\CT.Service\bin\Debug\netcoreapp2.0\CT.Repo.pdb
+D:\Insight\CodeTest\CT.Service\bin\Debug\netcoreapp2.0\CT.Data.pdb
+D:\Insight\CodeTest\CT.Service\obj\Debug\netcoreapp2.0\CT.Service.csprojResolveAssemblyReference.cache
+D:\Insight\CodeTest\CT.Service\obj\Debug\netcoreapp2.0\CT.Service.csproj.CoreCompileInputs.cache
+D:\Insight\CodeTest\CT.Service\obj\Debug\netcoreapp2.0\CT.Service.AssemblyInfoInputs.cache
+D:\Insight\CodeTest\CT.Service\obj\Debug\netcoreapp2.0\CT.Service.AssemblyInfo.cs
+D:\Insight\CodeTest\CT.Service\obj\Debug\netcoreapp2.0\CT.Service.dll
+D:\Insight\CodeTest\CT.Service\obj\Debug\netcoreapp2.0\CT.Service.pdb

@@ -1,0 +1,11 @@
+D:\Insight\CodeTest\CT.Data\bin\Debug\netcoreapp2.0\CT.Data.deps.json
+D:\Insight\CodeTest\CT.Data\bin\Debug\netcoreapp2.0\CT.Data.dll
+D:\Insight\CodeTest\CT.Data\bin\Debug\netcoreapp2.0\CT.Data.pdb
+D:\Insight\CodeTest\CT.Data\bin\Debug\netcoreapp2.0\CT.Models.dll
+D:\Insight\CodeTest\CT.Data\bin\Debug\netcoreapp2.0\CT.Models.pdb
+D:\Insight\CodeTest\CT.Data\obj\Debug\netcoreapp2.0\CT.Data.csprojResolveAssemblyReference.cache
+D:\Insight\CodeTest\CT.Data\obj\Debug\netcoreapp2.0\CT.Data.csproj.CoreCompileInputs.cache
+D:\Insight\CodeTest\CT.Data\obj\Debug\netcoreapp2.0\CT.Data.AssemblyInfoInputs.cache
+D:\Insight\CodeTest\CT.Data\obj\Debug\netcoreapp2.0\CT.Data.AssemblyInfo.cs
+D:\Insight\CodeTest\CT.Data\obj\Debug\netcoreapp2.0\CT.Data.dll
+D:\Insight\CodeTest\CT.Data\obj\Debug\netcoreapp2.0\CT.Data.pdb
